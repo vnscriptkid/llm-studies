@@ -1,0 +1,11 @@
+[project]
+name = "llm-studies"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "google-genai>=1.63.0",
+    "mcp>=1.26.0",
+    "python-dotenv>=1.2.1",
+]
